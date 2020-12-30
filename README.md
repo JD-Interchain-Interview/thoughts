@@ -41,13 +41,22 @@
 ---
 
 **In this section, we will only be diving into the trademark.**
+
 The purpose behind trademarks is to allow companies to indicate the source of their goods or services and to distinguish them from others in the industry.
 
 Here are the first thoughts that crossed my mind —
 
+
+<br/>
+
+
 | Logo Transformation                                        | Logo Transition — Interchain & Interchain Gmbh         |
 | ---------------------------------------------------------- | ------------------------------------------------------ |
 | <img src="./assets/Logo_Transformation.gif" width="500" /> | <img src="./assets/Logo_Transition.gif" width="700" /> |
+
+
+<br/>
+
 
 **Logo Transformation Process**
 
@@ -92,19 +101,22 @@ Here are the first thoughts that crossed my mind —
 
 ---
 
+> The purpose of this is to allow the brand to speak to the broader general population while allowing it's minimalistic style to accommodate a variety of other design systems within the global ecosystem and future design trends.
+
+
 <div align="center">
   <img src="./assets/General_Styling.png" alt="General Styling"/>
-  <br/>
-  <p>The purpose of this is to allow interchain to speak to the broader general population while allowing it's minimalistic style to accommodate a variety of other design systems within the global ecosystem and future design trends.</p>
 </div>
 
 <br/>
 
-| General Community Facing                                          |                                                                     |
+
+| Banner                                                            |                                                                     |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src="./assets/General_Community_Facing.png" width="700" />   | <img src="./assets/General_Community_Facing_B.png" width="500" />   |
+| General Community Facing                                          |                                                                     |
+| <img src="./assets/General_Community_Facing.png" width="900" />   | <img src="./assets/General_Community_Facing_B.png" width="300" />   |
 | Technical Community Facing                                        |                                                                     |
-| <img src="./assets/Technical_Community_Facing.png" width="700" /> | <img src="./assets/Technical_Community_Facing_B.png" width="500" /> |
+| <img src="./assets/Technical_Community_Facing.png" width="900" /> | <img src="./assets/Technical_Community_Facing_B.png" width="300" /> |
 
 <br/>
 <br/>
