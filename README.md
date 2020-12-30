@@ -63,22 +63,25 @@ Here are the first thoughts that crossed my mind —
   <br/>
 
   <h6> Strip the logo colors </h6>
-  <p></p>
+  <p>A multicolored logo isn't an impossible design system strategy, but personally, I would say move away from the logo color shelf and instead used color to accent components of the design system.</p>
+  <p>If Interchain were a singular product, I would say it wouldn't matter either way, but because Interchain is a foundation, I think having a cleaner enterprise look would be more suitable.</p>
+  <img src="color_logo.png" width="300"/>
 
   <br/>
 
   <h6> Smooth out the edges</h6>
-  <p></p>
+  <p>I know that it may seem like there is no difference; however, this change is simply to make the logo cleaner and slightly more refined by utilizing white space. Breathing air into the logo.</p>
 
   <br/>
 
   <h6> Move typeface from `Upper case` to `Sentence case`  </h6>
-  <p></p>
+  <p>This is my own personal opinion but the upper case typeface gives the logo an outdated look — however upper case can be use if you were trying to give the brand a high end premium look by adding more white space between the letters. </p>
+  <p>For this particular brand I think that Sentence case is the way to go because it gives it a modern and timeless look.</p>
 
   <br/>
 
   <h6> Add a logo transition to Interchain Gmbh </h6>
-  <p></p>
+  <p>The logo transition for Interchain GmbH gives GmbH it's own identity space while still being fully part of Interchain. </p>
 
 </details>
 
