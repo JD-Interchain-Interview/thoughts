@@ -65,7 +65,7 @@ Here are the first thoughts that crossed my mind —
   <h6> Strip the logo colors </h6>
   <p>A multicolored logo isn't an impossible design system strategy, but personally, I would say move away from the logo color shelf and instead used color to accent components of the design system.</p>
   <p>If Interchain were a singular product, I would say it wouldn't matter either way, but because Interchain is a foundation, I think having a cleaner enterprise look would be more suitable.</p>
-  <img src="color_logo.png" width="300"/>
+  <img src="./assets/color_logo.png" width="300"/>
 
   <br/>
 
