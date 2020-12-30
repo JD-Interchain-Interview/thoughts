@@ -38,6 +38,12 @@ Here are the first thoughts that crossed my mind —
 <br/>
 
 
+> Slow down gif below 👇  👇
+
+
+<br/>
+
+
 | Logo Transformation                                        | Logo Transition — Interchain & Interchain Gmbh         |
 | ---------------------------------------------------------- | ------------------------------------------------------ |
 | <img src="./assets/Logo_Transformation.gif" width="500" /> | <img src="./assets/Logo_Transition.gif" width="700" /> |
