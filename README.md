@@ -104,6 +104,9 @@ Here are the first thoughts that crossed my mind —
 > The purpose of this is to allow the brand to speak to the broader general population while allowing it's minimalistic style to accommodate a variety of other design systems within the global ecosystem and future design trends.
 
 
+<br/>
+
+
 <div align="center">
   <img src="./assets/General_Styling.png" alt="General Styling"/>
 </div>
@@ -111,7 +114,7 @@ Here are the first thoughts that crossed my mind —
 <br/>
 
 
-| Banner                                                            |                                                                     |
+|                                                                   |                                                                     |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
 | General Community Facing                                          |                                                                     |
 | <img src="./assets/General_Community_Facing.png" width="900" />   | <img src="./assets/General_Community_Facing_B.png" width="300" />   |
