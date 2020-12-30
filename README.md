@@ -14,24 +14,12 @@
 
 <br/>
 
-### INDEX
-
----
-
-> [Overview](#Overview)
-
-> [The logo is not the brand](#The-logo-is-not-the-brand)
-
-> [First pass styling](#First-pass-styling)
-
-<br/>
-<br/>
 
 ### Overview
 
 ---
 
-...
+This is a quick glimpse, note that this idea is not fully fleshed out. 
 
 <br/>
 <br/>
